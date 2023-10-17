@@ -43,3 +43,13 @@ Inside your project directory, run:
 
     npm run build
 
+
+pwd
+sudo apt-get install nginx
+sudo nano /etc/nginx/sites-enabled/default
+
+paste the code in default config
+sudo systemctl enable nginx
+sudo systemctl start nginx
+sudo systemctl is-enabled nginx
+
