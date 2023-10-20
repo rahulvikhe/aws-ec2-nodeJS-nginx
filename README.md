@@ -63,4 +63,4 @@ Save the configuration file and then enable the site and start Nginx:
     sudo systemctl enable nginx
     sudo systemctl start nginx
 
-Make sure to replace your-domain.com with your actual domain or IP address and /path/to/your/gatsby-project with the correct path to your Gatsby project's build output.
+Make sure to replace **your-domain.com** with your actual domain or IP address and **/path/to/your/gatsby-project** with the correct path to your Gatsby project's build output.
