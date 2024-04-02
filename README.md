@@ -22,7 +22,7 @@
 
 3.1. Upload Your Project: You can use Git or any other method to upload your Gatsby project to the EC2 instance.
 
-    git clone https://github.com/username/repository-name.git
+    git clone https://github.com/rahulvikhe/nodejs-aws-ec2-nginx.git
 
 3.2. Install Project Dependencies: Inside your project directory, run:
 
